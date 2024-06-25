@@ -1,25 +1,25 @@
-## ¿De qué trata mi proyecto?
+## What is my project about?
 ---
-Se trata de un programa en `python` que simula el sistema informático de un banco utilizando los principios básicos de la POO con el fin de practicar.
+It is a `python` program that simulates a bank's computer system using the basic principles of OOP to practice.
 
-### Características
-- Creación/eliminación de cuentas
-	- Creación de cuentas bancarias/eliminación
-		- Consulta información
-		- Transferencias
-		- Depositar
-		- Retirar
+### Features
+- Account creation/deletion
+	- Creation of bank accounts/deletion
+		- Information query
+		- Transfers
+		- Deposit
+		- Withdraw
 
-### Futuras mejoras
-- Interfaz gráfica utilizando `Tkinter`
-- Gestión de datos con mayor seguridad (hashing)
-- Estadísticas e historial
+### Future improvements
+- Graphical interface using `Tkinter`
+- Enhanced data management security (hashing)
+- Statistics and history
 
-### Librerías utilizadas
-- `Random`: para generar IDs aleatorios a cada cuenta
+### Libraries used
+- `Random`: to generate random IDs for each account
 
-- `Tkinter`: interfaz gráfica
-- `Matplotlib`: gráficos
+- `Tkinter`: graphical interface
+- `Matplotlib`: graphs
 
 ---
 By [Santi](https://github.com/saantii-17/)
