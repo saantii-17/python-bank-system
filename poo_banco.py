@@ -1,25 +1,5 @@
 import random
 
-'''
-CALSES PRINCIPALES
-* Cliente
-* Cuenta
-OPERACIONES BASICAS
-* Depositar
-* Retirar
-* Transferencia
-SEGURIDAD
-*Contraseña
-GESTION DE CUENTAS Y CLIENTES
-* Crear cuentas
-* Eliminar cuentas
-* Actualizar información cliente
-REPORTES Y ESTADÍSTICAS
-* Estado de cuentas
-* Gráficos y estadisticas
-* Historial (ultima trasnsaccion, ingresos...etc)
-'''
-
 class client:
     def __init__(self, name):
         self.name = name
