@@ -1,4 +1,5 @@
-""" # Import account class
+"""
+# Import account class
 from account import account
 
 # Print menu options
@@ -34,7 +35,8 @@ def main():
         exit()
 
 if __name__ == '__main__':
-    main() """
+    main() 
+"""
 
 class Cliente:
     def __init__(self, nombre, identificacion, direccion, contacto):
