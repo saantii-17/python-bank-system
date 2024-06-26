@@ -20,8 +20,8 @@ Represents a bank client.
 - **Attributes**:
   - `name`: Client's name.
   - `id`: Client's identification.
-  - `direction`: Client's address.
-  - `contact`: Client's contact information.
+  - `age`: Client's age.
+  - `email`: Client's email.
   - `accounts`: List of accounts associated with the client.
 
 - **Methods**:
