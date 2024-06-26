@@ -3,12 +3,11 @@
 It is a `python` program that simulates a bank's computer system using the basic principles of OOP to practice.
 
 ### Features
-- Account creation/deletion
-	- Creation of bank accounts/deletion
-		- Information query
-		- Transfers
-		- Deposit
-		- Withdraw
+- Creation of bank accounts/deletion
+	- Information query
+	- Transfers
+	- Deposit
+	- Withdraw
 
 ### Future improvements
 - Graphical interface using `Tkinter`
