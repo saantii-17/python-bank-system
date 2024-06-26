@@ -1,6 +1,7 @@
 """
-# Import account class
-from account import account
+# Import account and client class
+from classes.account import account
+from classes.client import client
 
 # Print menu options
 def menu():
