@@ -20,12 +20,12 @@ Represents a bank client.
 - **Attributes**:
   - `name`: Client's name.
   - `id`: Client's identification.
-  - `direction`: Client's address.
-  - `contact`: Client's contact information.
+  - `age`: Client's age.
+  - `email`: Client's email.
   - `accounts`: List of accounts associated with the client.
 
 - **Methods**:
-  - `__init__(self, name, id, direction, contact)`: Initializes a new client.
+  - `__init__(self, name, id, age, email)`: Initializes a new client.
   - `assign_account(self, account)`: Assigns an account to the client.
   - `show_info(self)`: Displays client information.
   - `show_accounts(self)`: Displays client's accounts.
