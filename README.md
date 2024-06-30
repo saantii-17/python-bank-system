@@ -91,12 +91,12 @@ ___
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your_username/banking-system-python.git
+    git clone https://github.com/saantii-17/python-bank-system.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd banking-system-python
+    cd python-bank-system
     ```
 
 3. Run the main script:
